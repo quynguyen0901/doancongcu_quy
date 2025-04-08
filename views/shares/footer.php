@@ -15,8 +15,8 @@
                 <ul class="list-unstyled">
                     <li><a href="index.php" class="text-dark">Trang Chủ</a></li>
                     <li><a href="profile.php" class="text-dark">Sản Phẩm</a></li>
-                    <li><a href="#!" class="text-dark">Giới Thiệu</a></li>
-                    <li><a href="#!" class="text-dark">Liên Hệ</a></li>
+                    <li><a href="login.php" class="text-dark">Giới Thiệu</a></li>
+                    <li><a href="logout.php" class="text-dark">Liên Hệ</a></li>
                 </ul>
             </div>
 
